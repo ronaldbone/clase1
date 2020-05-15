@@ -1,7 +1,5 @@
 # clase1
-RonaldBone
-Aplicaciones Moviles
-buena prueba
-color rojo
-pasado
-bueno.
+## RonaldBone
+- primero
+- segundo
+{Descripcion} {http://www.google.com}
