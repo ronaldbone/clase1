@@ -2,4 +2,4 @@
 ## RonaldBone
 - primero
 - segundo
-{Descripcion} {http://www.google.com}
+[Descripcion] (http://www.google.com)
